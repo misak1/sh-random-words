@@ -1,6 +1,6 @@
-# ランダム単語出力
+# sh-random-words
 
-### ダミーパスを作る例
+e.g. dammy path
 
 ```
 $ sh index.sh
@@ -8,7 +8,7 @@ $ sh index.sh
 ```
 
 
-元データはweblio名詞一覧から
+- 元データ:weblio名詞一覧  
 http://ejje.weblio.jp/parts-of-speech/kenej/%E5%90%8D%E8%A9%9E_1
 
 
